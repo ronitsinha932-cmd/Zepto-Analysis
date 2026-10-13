@@ -1,0 +1,22 @@
+
+## 7. `.gitignore`
+
+Create `.gitignore` and paste:
+
+```gitignore
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
